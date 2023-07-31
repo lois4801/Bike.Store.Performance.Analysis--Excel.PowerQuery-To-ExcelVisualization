@@ -1,1 +1,2 @@
-https://docs.google.com/spreadsheets/d/14IL7UkkkQl-ixp-cRPnOoHyJ6iKr_pfv/edit?usp=drive_link&ouid=103062112055920242657&rtpof=true&sd=true
+![image](https://github.com/lois4801/Bike-Sales-Analysis/assets/96842662/0735e3ed-6fba-4b16-80ca-856a9eef4e2c)
+
