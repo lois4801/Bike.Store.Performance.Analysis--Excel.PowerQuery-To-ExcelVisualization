@@ -1,4 +1,4 @@
-# Bike-Sales-Analysis
+# Bike Store Performance Analysis
 - A store who sells bikes in North America, Europe, and Pacific  needed some help in analysing the raw data they have . The data is comprise of 1026 rows, and 13 attributes.
 
 ## The owner wanted to acquire the answers for the questions.
