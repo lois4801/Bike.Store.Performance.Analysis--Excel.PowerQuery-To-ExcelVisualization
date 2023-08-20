@@ -2,6 +2,7 @@
 ![giphy](https://github.com/lois4801/Bike.Store.Performance.Analysis--Excel.PowerQuery-To-ExcelVisualization/assets/96842662/289984a8-0a36-494e-a5c1-c5f7dc48f5e7)
 
 •	For more projects to share like this. Please support me by following me in my social media accounts.
+
 Github>>>>>>>https://github.com/lois4801
 LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
