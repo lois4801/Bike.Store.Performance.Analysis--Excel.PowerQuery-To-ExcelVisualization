@@ -10,7 +10,7 @@
 - Which profession has the highest and lowest average income for my buyers and non buyers?
 Who are my hot leads and cold leads?
 
-- What is the average income of maried and single customers?
+- What is the average income of married and single customers?
   Should I target more married couples or single couples in our google ads or in marketing campaign?
   
 - For our marketing campaign and ads campaign who should I target in facebook, twitter and tiktok ?
