@@ -2,7 +2,7 @@
 ![giphy](https://github.com/lois4801/Bike.Store.Performance.Analysis--Excel.PowerQuery-To-ExcelVisualization/assets/96842662/289984a8-0a36-494e-a5c1-c5f7dc48f5e7)
 
 # Bike Store Performance Analysis
-- A store who sells bikes in North America, Europe, and Pacific  needed some help in analysing the raw data they have . The data is comprise of 1026 rows, and 13 attributes.
+- A store who sells bikes in North America, Europe, and Pacific  needed some help in analysing the raw data they have . The data is comprised of 1026 rows, and 13 attributes.
 
 ## The owner wanted to acquire the answers for the following questions.
 - How much per region are my buyers for male and female? Where should I focus, and who are my leads?
