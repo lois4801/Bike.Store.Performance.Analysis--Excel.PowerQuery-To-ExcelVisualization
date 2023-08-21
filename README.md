@@ -27,6 +27,14 @@ Who are my hot leads and cold leads?
   Who buys more? Is it those who travels more and travels less?
 
   
+![b3](https://github.com/lois4801/Bike.Store.Performance.Analysis--Excel.PowerQuery-To-ExcelVisualization/assets/96842662/198d9b96-0725-48cb-b288-63d4842fcdaf)
+
+![b4](https://github.com/lois4801/Bike.Store.Performance.Analysis--Excel.PowerQuery-To-ExcelVisualization/assets/96842662/6c4c94bf-e7fe-414e-ab47-b5b6f1ccabad)
+
+## Data Cleaning
+- Removal of 26 duplicate values
+ ![b5](https://github.com/lois4801/Bike.Store.Performance.Analysis--Excel.PowerQuery-To-ExcelVisualization/assets/96842662/820553bf-7b83-419f-8b7e-31842e744396)
+
 
 
 ![s10](https://github.com/lois4801/Bike.Store.Performance.Analysis--Excel.PowerQuery-To-ExcelVisualization/assets/96842662/e0909539-ce45-4577-92f9-af9ce7e2cc82)
