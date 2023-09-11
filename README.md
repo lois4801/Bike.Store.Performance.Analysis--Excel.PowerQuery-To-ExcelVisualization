@@ -45,7 +45,7 @@ Who are my hot leads and cold leads?
 ![b7](https://github.com/lois4801/Bike.Store.Performance.Analysis--Excel.PowerQuery-To-ExcelVisualization/assets/96842662/fe4812cd-4a82-4013-8382-6bf43104646d)
 
 ## Excel Pivot Data Anomalies and Issues Troubleshooting
--	I have noticed that all my columns have blanks. Upon checking it turns out that this are the header columns of my  OCCUPATION AND HOMEOWNER. Thus,  I have to uncheck all blanks , so in turn it wouldn’t affect my pivot tables later.
+-	I have noticed that all my columns have blanks. Upon checking it turns out that these are the header columns of my  OCCUPATION AND HOMEOWNER. Thus,  I have to uncheck all blanks , so in turn it wouldn’t affect my pivot tables later.
 
 ![b8](https://github.com/lois4801/Bike.Store.Performance.Analysis--Excel.PowerQuery-To-ExcelVisualization/assets/96842662/84963ab8-fa0e-45d5-a551-da525d7c4db2)
 
