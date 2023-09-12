@@ -38,7 +38,7 @@ Who are my hot leads and cold leads?
 
 ![b6](https://github.com/lois4801/Bike.Store.Performance.Analysis--Excel.PowerQuery-To-ExcelVisualization/assets/96842662/4772cc15-0e6f-4795-ae6c-e8a4e01bebd3)
 
-- There are data uncertainties in the between Gender, and Marital Status. 
+- There are data uncertainties in between Gender, and Marital Status. 
 -	Under Marital Status, change M to Married and S to Single
 -	Under Gender, change M to Male and F to Female
 
