@@ -7,6 +7,83 @@ Github>>>>>>>https://github.com/lois4801
 
 LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
+Highlights:
+***Cleaned and transformed 1,026 customer records in Power Query: removed 26 duplicates, standardized categorical codes and created age segments, producing a reliable 1,000-record dataset.
+
+***Built an interactive Excel dashboard (PivotTables, PivotCharts, slicers) answering 5 business questions on region, demographics, income and commute behavior.
+
+***Found high-conversion segments (Pacific region at 59%, single customers at 54%, car-free customers at 61%) and turned them into marketing targeting recommendations.
+
+****Troubleshot pivot issues (blank values, a record changed after transformation, the sort order of commute categories), which improved data accuracy and how clearly the dashboard reads.
+
+Tools: Excel, Power Query, PivotTables, PivotCharts, slicers and an interactive dashboard.
+
+Scope: 1,026 raw records with 13 attributes (income, occupation, region, age, commute, cars, children and whether they bought).
+
+Business focus: framed the work around five questions from the owner, covering region, gender, income by profession, marital status, age groups for social media ads, and commute distance.
+
+Feature engineering: created an Age Bracket column to segment customers.
+
+Documentation: recorded my troubleshooting with screenshots, which shows how you think through a problem.
+
+Key findings (1,000 cleaned records, 48.1% bought a bike):
+-Average buyer income is $57,963, compared with $54,875 for non-buyers. Buyers earn more in every one of the five occupations.
+-Professionals are the strongest occupation group (54.3% buy). Management has the highest income (about $86–88K) but converts at only 42.2%.
+
+Problems
+1. Business: The owner didn't know which regions, demographics or channels to focus on.
+
+2. Duplicates: 26 duplicate records were inflating the counts.
+Unclear codes: M and S for marital status, and M and F for gender. M meant different things in different columns.
+
+3.Blank values in pivots: These came from header rows in the Occupation and Home Owner fields.
+
+4.Raw ages: Ages were too detailed to segment for ad targeting.
+A changed row: A record was altered after transformation and showed up wrong in a pivot.
+
+5.Number formatting: Formatting errors were distorting the income values.
+Sort order: "10+ Miles" sorted second instead of last, which broke the commute trendline.
+
+
+
+Solutions
+1. Duplicates and codes:  Removed duplicates in Power Query and replaced the codes with Married/Single and Male/Female.
+
+2. Blanks: I filtered blanks out of the pivot fields.
+
+3. Age brackets: I built a nested IF(AND()) formula, with help from an AI tool, to create Adolescent, Middle Age and Old Age groups.
+The changed row: You traced the bad record back to the source and corrected it.
+
+4. Formatting: I converted income to whole-number currency.
+Sort order: You fixed the commute category order so the trendline reads logically.
+
+5. Dashboard: I combined everything into one dashboard with slicers so the owner can explore it without help.
+
+
+Lessons learned
+
+Clean upstream, not in the pivot. Fixes made in Power Query carry through and can be repeated. Patching the pivot hides problems.
+
+Validate after every transformation. The row that changed after cleaning proved this.
+
+Ordinal categories need an explicit order. Text sorts alphabetically, not logically.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Bike Store Performance Analysis
 - A store who sells bikes in North America, Europe, and Pacific  needed some help in analysing the raw data they have . The data is comprised of 1026 rows, and 13 attributes.
