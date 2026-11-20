@@ -7,7 +7,7 @@ Github>>>>>>>https://github.com/lois4801
 
 LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
-#Highlights:
+# Highlights:
 ***Cleaned and transformed 1,026 customer records in Power Query: removed 26 duplicates, standardized categorical codes and created age segments, producing a reliable 1,000-record dataset.
 
 ***Built an interactive Excel dashboard (PivotTables, PivotCharts, slicers) answering 5 business questions on region, demographics, income and commute behavior.
@@ -26,11 +26,11 @@ Feature engineering: created an Age Bracket column to segment customers.
 
 Documentation: recorded my troubleshooting with screenshots, which shows how you think through a problem.
 
-#Key findings (1,000 cleaned records, 48.1% bought a bike):
+# Key findings (1,000 cleaned records, 48.1% bought a bike):
 -Average buyer income is $57,963, compared with $54,875 for non-buyers. Buyers earn more in every one of the five occupations.
 -Professionals are the strongest occupation group (54.3% buy). Management has the highest income (about $86–88K) but converts at only 42.2%.
 
-#Problems
+# Problems
 1. Business: The owner didn't know which regions, demographics or channels to focus on.
 
 2. Duplicates: 26 duplicate records were inflating the counts.
@@ -46,7 +46,7 @@ Sort order: "10+ Miles" sorted second instead of last, which broke the commute t
 
 
 
-#Solutions
+# Solutions
 1. Duplicates and codes:  Removed duplicates in Power Query and replaced the codes with Married/Single and Male/Female.
 
 2. Blanks: I filtered blanks out of the pivot fields.
@@ -60,7 +60,7 @@ Sort order: You fixed the commute category order so the trendline reads logicall
 5. Dashboard: I combined everything into one dashboard with slicers so the owner can explore it without help.
 
 
-#Lessons learned
+# Lessons learned
 
 Clean upstream, not in the pivot. Fixes made in Power Query carry through and can be repeated. Patching the pivot hides problems.
 
